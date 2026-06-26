@@ -1,0 +1,117 @@
+:root {
+  --link-hover: #c39738;
+  font-size: 62.5%;
+  color: #444
+}
+
+body {
+  font-family: "Roboto",sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.75;
+  margin: 0;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: var(--link-hover);
+}
+
+a:hover, a.active {
+  color: var(--link-hover);
+  transition: color .2s ease-in-out, background .2s ease-in-out;
+}
+
+a.nav-link:link, a.nav-link:visited {
+  color: #fff;
+}
+
+a.nav-link:hover, a.nav-link.active {
+  color: var(--link-hover);
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  font-size: 2rem;
+}
+
+.site-header {
+  background-color: #222;
+  color: #fff;
+  align-items: center;
+  font-size: 18px;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  gap: 2rem;
+}
+
+.site-logo {
+  display: flex;
+  height: 100px;
+  width: auto;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+}
+
+.site-nav a {
+  position: relative;
+  white-space: nowrap;
+  padding: 1rem;
+  margin-right: 1rem;
+}
+
+.site-nav a + a::before {
+  content: "•";
+  position: absolute;
+  left: -0.5rem;
+  color: #555;
+}
+
+.hero {
+  width: 100%;
+  display: block;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+
+.main-content {
+  max-width: 1200px;
+  text-align: center;
+  margin: auto;
+  padding: 2rem;
+  margin-top: -100px;
+  background: #fff;
+  position: relative;
+}
+
+.content-card {
+  padding: 2rem;
+  border: 2px solid #eee;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.site-footer {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url( ' https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/66904c_06c6b72223b742998d478cccfa5bbdd9mv2_d_1936_2592_s_2.webp ' );
+  background-size: cover;
+  background-position: center;
+  padding: 1rem;
+  text-align: center;
+  color: #fff;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  <title>{{ page.title}} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">
+            <img class="site-logo" src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
+        </a>
+        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active {% endif %}nav-link">Home</a>
+        <a href="{{ '/useful-documents/' | relative_url }}" class="{% if page.url contains 'useful-documents' %}active {% endif %}nav-link">Useful Documents</a>
+        <a href="{{ '/renting-a-plot/' | relative_url }}" class="{% if page.url contains 'renting-a-plot' %}active {% endif %}nav-link">Renting a Plot</a>
+        <a href="{{ '/committee/' | relative_url }}" class="{% if page.url contains 'committee' %}active {% endif %}nav-link">Committee</a>
+        <a href="{{ '/history/' | relative_url }}" class="{% if page.url contains 'history' %}active {% endif %}nav-link">History</a>
+        <a href="{{ '/contact/' | relative_url }}" class="{% if page.url contains 'contact' %}active {% endif %}nav-link">Contact Us</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- BODY -->
+  <section>
+    <div class="hero" id="hero" style="background-image: url({{ page.header_image | relative_url }})">
+      <img height="200" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="> <!-- Empty image -->
+    </div>
+    <!-- CONTENT CARD -->
+    <main class="main-content">
+      <div class="content-card">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </main>
+  </section>
+
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div">
+      <a class="nav-link" href="{{ '/' | relative_url }}">
+        <p style="font-size: 32px; text-transform: uppercase;">{{ site.title }}</p>
+      </a>
+      <p style="font-style: italic">{{ site.description }}</p>
+    </div>
+  </footer>
+</body>
+</html>

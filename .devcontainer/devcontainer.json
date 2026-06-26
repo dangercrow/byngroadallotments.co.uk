@@ -1,0 +1,7 @@
+{
+  "name": "byngroadallotments.co.uk",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.3",
+  "forwardPorts": [4000],
+  "postCreateCommand": "bundle install",
+  "postStartCommand": "bundle exec jekyll serve --host 0.0.0.0 --livereload"
+}
