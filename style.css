@@ -196,6 +196,10 @@ th {
     height: 60px;
   }
 
+  .card-table img {
+    height: 240px;
+  }
+
   .nav-toggle-label {
     display: flex;
     flex-direction: column;
