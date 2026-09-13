@@ -7,7 +7,7 @@ header_image: https://byngroadallotments.wordpress.com/wp-content/uploads/2024/0
 |---|---|---|
 | <img src="https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/20231008_180142.jpg?w=256" height=128 /> | <img src="https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/20231011_122945.jpg?w=256" height=128 /> | <img src="https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/20231017_122926.jpg?w=256" height=128 /> |
 |On 5 July 2013 we entered into an agreement with the London Borough of Barnet to lease the site for 38 years.<br><br>The lease forms our Constitution, Handbook and policies.|Our Constitution determines our objectives, membership and our committee’s powers and how it is managed.<br><br>It was adopted at the Annual General Meeting on 15 May 2016 and updated in May 2024.|Our Handbook contains our Terms and Conditions, a copy of our Tenancy Agreement and an Application to Erect a Structure.<br><br>It was adopted at the EGM on 22 September 2016 and updated in May 2023 and in May 2024.|
-| [BRAG Lease 2013](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/brag-lease-2013.pdf) | [BRAG Constitution 2024](https://byngroadallotments.wordpress.com/wp-content/uploads/2025/06/brag-constitution-2024.docx) | [BRAG Handbook 2025](https://byngroadallotments.wordpress.com/wp-content/uploads/2025/06/brag-handbook-2025-1.docx) |
+| [BRAG Lease 2013](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/brag-lease-2013.pdf) | [BRAG Constitution 2026](https://byngroadallotments.wordpress.com/wp-content/uploads/2026/09/brag-constitution-2026.pdf) | [BRAG Handbook 2025](https://byngroadallotments.wordpress.com/wp-content/uploads/2025/06/brag-handbook-2025-1.docx) |
 
 ---
 
