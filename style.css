@@ -127,40 +127,49 @@ th {
 }
 
 .card-table {
-  border-collapse: collapse;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 2rem;
+  width: 100%;
 }
 
-.card-table th {
-  text-align: left;
-  font-size: 1.3rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: #888;
-  padding: 0.5rem 1rem;
-  border-bottom: 2px solid #eee;
+.card-table thead {
+  display: none;
+}
+
+.card-table tbody {
+  display: contents;
+}
+
+.card-table tr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 2rem;
 }
 
 .card-table td {
-  text-align: left;
-  vertical-align: middle;
-  padding: 1.5rem 1rem;
-  border-bottom: 1px solid #eee;
+  display: block;
+  width: 100%;
+  padding: 0.4rem 0;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
-.card-table tr:last-child td {
-  border-bottom: none;
-}
-
-.card-table td:first-child {
-  width: 100px;
+.card-table td:nth-child(2) {
+  font-weight: bold;
+  font-size: 1.8rem;
 }
 
 .card-table img {
   display: block;
-  width: 100px;
-  height: 100px;
+  width: auto;
+  height: 160px;
   object-fit: contain;
-  margin: 0 auto;
+  margin: 0 auto 1rem;
 }
 
 .site-footer {
@@ -256,47 +265,6 @@ th {
   table:not(.data-table):not(.card-table) td, table:not(.data-table):not(.card-table) th {
     overflow-wrap: break-word;
     word-break: break-word;
-  }
-
-  .card-table, .card-table tbody, .card-table tr, .card-table td {
-    display: block;
-    width: 100%;
-    overflow-wrap: break-word;
-    word-break: break-word;
-  }
-
-  .card-table thead {
-    display: none;
-  }
-
-  .card-table tr {
-    margin-bottom: 2rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid #eee;
-  }
-
-  .card-table tr:last-child {
-    border-bottom: none;
-  }
-
-  .card-table td {
-    text-align: center;
-    border-bottom: none;
-    padding: 0.4rem 0;
-  }
-
-  .card-table td:first-child {
-    width: 100%;
-  }
-
-  .card-table td:nth-child(2) {
-    font-weight: bold;
-    font-size: 1.8rem;
-  }
-
-  .card-table img {
-    width: auto;
-    height: 160px;
   }
 
   .data-table {
