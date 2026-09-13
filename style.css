@@ -181,7 +181,7 @@ th {
 }
 
 .site-footer {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url( ' https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/66904c_06c6b72223b742998d478cccfa5bbdd9mv2_d_1936_2592_s_2.webp ' );
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url( ' /assets/images/site-footer.webp ' );
   background-size: cover;
   background-position: center;
   padding: 1rem;

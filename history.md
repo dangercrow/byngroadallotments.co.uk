@@ -1,13 +1,13 @@
 ---
 title: History
-header_image: https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/dig-for-victory-poster-4-1490395625-e1719950847474.jpg
+header_image: /assets/images/history-hero.jpg
 ---
 
 # History of Allotments in England.
 
 Allotments can be traced back to the 11th and 12th centuries, when manors or villages were surrounded by large fields that were split into long narrow sections, which allowed families to grow crops.  The sections were one furlong (around 200m) by one chain (around 20m).  Each villager had several strips, which were widely scattered so the land was distributed fairly; and crops rotated – barley in Year 1, wheat in Year 2 and laying fallow in Year 3.  In addition to these fields, there was common land for livestock to graze and woodland for hunting.
 
-![Diagram of the medieval open-field strip farming system](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/image.png?w=693)
+![Diagram of the medieval open-field strip farming system](/assets/images/history-content-1.jpg)
 
 By the 16th century, England’s population grew from 1.5-2 million in 12th century to 5.5-6million and together with:  introduction of new crops, such as turnip, swede and potatoes; an increase in large animals, such as horses and cows; an increase in manure from large animals; and an increase in demand for food for the large animals, all placed a greater demand for land and made the ‘open system’ difficult to continue.  By the late 1500s these large fields and common land was divided up and enclosed by hedges, which not only denied access to people who had previously been able to grow and graze freely but changed the English landscape and introduced the landowner. 
 
@@ -25,13 +25,13 @@ The Smallholdings and Allotments Act (1907) consolidated all the previous acts a
 
 The First World War further fuelled the growth of allotments, and the number of plots grew from 674,000 in 1914 to 1.5 million in 1918, the largest number of plots.  World War 1 took soldiers and horses away from farming which reduced the amount of food being produced and a large proportion of that food was exported to feed the soldiers on the Western Front.  Parliament introduced British Summer Time Act in 1916, to reduce energy and increase war production, particularly in agriculture.  The UK had the strongest and biggest naval fleet and food imports was not greatly affected until the Russian Revolution when the new Bolshevik government of Soviet Russia negotiated the Treaty of Brest-Litosvsk with Germany in March 1918.  In return for Russia withdrawing from the war, they conceded Poland, Belarus, Ukraine, and Finland to the Germans – all agricultural and mining territories that exported food and coal to the UK.  In addition to reduction of food imports from Russia, was Germany’s deployment of U-boats.  By 1917, Germany was using their U-boats to attack merchant ships, rather warships, and consequently starve the UK into submission.  In 1917, 46,000 tons of meat and 85,000 tons of sugar were lost at sea and 1500 merchant ships were sunk in the autumn alone,
 
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture4.png?w=620)
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture2.png?w=320)
+![](/assets/images/history-content-2.jpg)
+![](/assets/images/history-content-3.jpg)
 
 and so fears that the UK’s food stocks could run out in weeks intensified.  As food prices soared, followed by panic buying and hoarding the Government put price controls on staple food and eventually introduced rationing in 1918 (ended in 1920).  Growing your own food became essential for the people and the demand for allotments increased.  Local authorities turned any derelict land into allotments and set up model plots to teach new gardeners how to grow their own vegetables and fruit.  A major source of land was land owned by railway companies and their plots were allotted to the railway workers, which is why many allotments are located by railway lines today. 
 
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture1.png?w=328)
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture3.jpg?w=442)
+![](/assets/images/history-content-4.jpg)
+![](/assets/images/history-content-5.jpg)
 
 However, many of the allotments were temporary allotment sites and were returned to their original use at the end of WW1. Also, the demand for housing (Homes for Heroes) and recreational grounds also reduced the number of allotments available, especially in urban areas.  In 1919 the Land Settlement Facilities Act was introduced to help returning servicemen after World War 1 and made allotments available to all and not just the landless poor and labouring poor.  This Act also enabled Allotment Committees to appropriate land held for other purposes, ie railway sidings and parks.
 
@@ -72,11 +72,11 @@ The Ministry of Agriculture and Fisheries issued another Memorandum on 10 Septem
 There was a high explosive bomb dropped on Byng Road Playing Fields on 13 October 1940, which may account for the stoney plots by our west fence; and two high explosive bombs dropped on the allotment site which may explain why west corner of Field 15 was never cultivated; as well as 5, possibly 6 high explosive bombs dropped on Queen Elizabeth Boys School on 11 January 1941
 Figure 1: Barnet Urban District Bomb Map.  Compiled on 1 March 1945.
 
-![Barnet Urban District bomb map, compiled 1 March 1945](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture5.png?w=1024)
+![Barnet Urban District bomb map, compiled 1 March 1945](/assets/images/history-content-6.jpg)
 
 By 1943, there were 17 vacant plots at Byng Road Allotments and it “was agreed that publicity should be given as to these vacant plots, and also that a list be published on the Notice Board at the Demonstration Allotment at Old Court House Grounds.”  (Allotments Committee. 13 July 1943).  In 1944, the vacant plots had increased to 29.  Also, the Allotments Committee have £50 available for improvements and consideration was given to fencing of certain war-time allotments, with Byng Road Allotments being one (Allotments Committee, Thursday 25 May 1944). 
 
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture7.png?w=964)
+![](/assets/images/history-content-7.jpg)
 
 By the end of World War 2, Byng Road Allotments had 35 vacancies (Finance and Establishment Committee, Tuesday 6 November 1945) and unlike World War 1, where many temporary allotment sites returned to their original use at the end of the war, the Ministry of Agriculture and Fisheries urged Local Authorities to produce more food and retain their war-time allotments and “permission to give up war-time allotment sites where required, would only be forthcoming from the Ministry where land is urgently needed for priority housing purposes” (Allotment Committee, Tuesday 26 February 1946).  Rationing did not end until 1954, the Dig for Plenty (Dig for Victory ended with World War 2) campaign was in full swing and a Circular 2319 from the Ministry of Agriculture and Fisheries was issued, again demanding more food production (Allotments Committee, Monday 27 January 1947). 
 
@@ -86,11 +86,11 @@ In May 1947, the Allotments Committee agree to a water supply at Byng Road Allot
 
 In June 1947, that Barnet UDC makes use of the Allotments Act (1925) and uses its powers to appropriate land for permanent allotments and designates Great Bushey Drive, Fairfield Way. Grange Estate and Byng Road Allotments as statutory Allotments.  Hertfordshire County Council, who own Field 15, where Byng Road Allotments is located, “are to be approached with view to the retention of this land for allotment purposes, if not on a permanent basis than on a long-term lease” (Allotments Committee, Monday 30 June 1947). 
 
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture8-2.jpg?w=1019)
+![](/assets/images/history-content-8.jpg)
 
 Instead, Hertfordshire County Council ask for a portion of Field 15 for “ the erection of [school] huts for accommodating the extra number of children now attending schools consequent upon the raising of the school-leaving age”  (Allotments Committee, Monday 27 October 1947).  The Education Act of 1944 increased the school leaving age to 15 years old and separated elementary schools into Primary Schools for children between 5 to 11 years old and secondary schools for children between 11 to 15 years old.  Hertfordshire County Council’s proposal would affect 35 plots, of which 21 are under cultivation and so Barnet UDC asks Hertfordshire County Council to reconsider its decision and suggests using the field immediately west (Byng Road Playing Fields) or on the part of this field that is not under cultivation.  In December 1947, Hertfordshire County Council refuse these suggestions from Barnet UDC, and it is not until January 1948 that a compromise is finally reached – the school huts are be placed 10 feet from the Council’s access path and so only seven cultivated plots would be affected and parts of two other plots.  Barnet UDC peg out another 35 plots on this field as there is now a waiting list, and to compensate the 9 tenants who made way for the school huts.  By the end of 1948 a new entrance for the allotments is installed further down the access track and by August 1948, the school huts were underway.  However, Byng Road Allotments lose their water supply, as it is now within the school boundary.   While Hertfordshire County Council allow Byng Road Allotments to share the water supply with the new school, there is no access to the water supply during weekends and summer months, and so it was decided that Byng Road Allotments should have their own water supply at a cost of £23.  There then was a six month delay for steel water pipes (Allotments Committee, Monday 25 April 1949) and water supply to Byng Road Allotments would not be sorted until 1950.  Also, 1949 brought scandal to the Byng Road Allotments, with the tenant at Plot 84 allowing it to be overgrown with weeds and a Notice to Quit was issued; and Plot 61 left the allotments without paying the additional water charge and the amount was written off as irrecoverable. 
 
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture9-1.png?w=1024)
+![](/assets/images/history-content-9.jpg)
 
 1950, is a pivotal year, not only for Byng Road Allotments but also for the entire area, and the decisions will shape the area as we know them today.  Firstly, a petition from residents of Old Fold View “urging the provision of adequate footpath facilities there from to the Byng Road School area” (Council Meeting, Tuesday 14 March 1950) and a letter from Mr GM Hatt requesting a footpath to Byng Road Allotments from Old Fold View (Allotments Committee, 28 August 1951).  After eleven Council Committee Meetings this path was eventually built in 1952.   The path that was created is still used today and it is between Queen Elizabeth Boys School and Noah’s Ark Children’s Hospice.  
 
@@ -102,7 +102,7 @@ While Hertfordshire County Council cease the fence building, it forces the Barne
 
 Barnet UDC agree to this request, but because the Allotment Act (1950) had just been introduced, the tenants could not be moved without 12 months’ notice, ending in the winter months, and so Lady Day (25 March) 1952 was the earliest Hertfordshire County Council could enclose Field 15 for Byng Road School and its playing fields.  The Allotments Committee also negotiate that the new location for Byng Road Allotments also become a Statutory allotment: 
 
-![](https://byngroadallotments.wordpress.com/wp-content/uploads/2024/07/picture13.png?w=962)
+![](/assets/images/history-content-10.jpg)
 
 “..application be made to the Ministry of Local Government and Planning for the appropriation of 5.25 acres of land at Byng Road…for permanent allotments, the land concerned having been acquired for open spaces purposes under the Physical Training and Recreational Act, 1937” (Parks and Open Spaces Committee, Tuesday 1 May 1951)
 

@@ -1,6 +1,6 @@
 ---
 title: Contact
-header_image: https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/20231011_122945.jpg
+header_image: /assets/images/contact-us-hero.jpg
 ---
 
 If you would like to get in touch with us on any matter, please send a message and one of the committee will reply as soon as possible. We look forward to hearing from you.

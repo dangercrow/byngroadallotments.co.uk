@@ -1,6 +1,6 @@
 ---
 title: Renting a Plot
-header_image: https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/20231011_122641.jpg
+header_image: /assets/images/renting-a-plot-hero.jpg
 ---
 
 Providing you live in the London Borough of Barnet and are interested in allotment gardening, anyone is eligible for a plot at Byng Road Allotments, regardless of sex, age, ability, education, ethnicity or religion.
