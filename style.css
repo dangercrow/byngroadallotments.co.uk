@@ -33,6 +33,15 @@ table {
   width: 100%;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.hero img {
+  height: 200px;
+}
+
 th {
   font-size: 2rem;
 }
@@ -114,4 +123,39 @@ th {
   padding: 1rem;
   text-align: center;
   color: #fff;
+}
+
+@media (max-width: 700px) {
+  .header-inner {
+    padding: 1rem 0.5rem;
+  }
+
+  .site-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 0.5rem;
+  }
+
+  .site-logo {
+    height: 60px;
+  }
+
+  .site-nav a {
+    margin-right: 0;
+  }
+
+  .main-content {
+    padding: 1rem;
+    margin-top: -60px;
+  }
+
+  table {
+    table-layout: fixed;
+    width: 100%;
+  }
+
+  table td, table th {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
 }
