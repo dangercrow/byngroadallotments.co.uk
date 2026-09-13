@@ -12,6 +12,7 @@ The BRAG Committee works on behalf of the membership, undertaking routine manage
 | | | |
 | **Secretary** | **IT** | **Treasurer** | |
 | David Wilson | Sahil Youngs | Nick Mackley | Erica McCormick |
+{: .data-table}
 
 ---
 

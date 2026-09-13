@@ -29,7 +29,7 @@ There is an additional charge if you choose to use a hose to water your plot.
 | | | | | | 
 | Hose |This is an **_optional charge_**  which allows you to use a hose | £2.20 | £5.50 | £11.00 | 
 | **Total** | | £12.20 | £30.50 | £61.00 |
-
+{: .data-table}
 
 ## Discount Rental
 
@@ -43,3 +43,4 @@ There is an additional charge if you choose to use a hose to water your plot.
 | | | | | | 
 | Hose |This is an **_optional charge_**  which allows you to use a hose | £2.20 | £5.50 | £11.00 | 
 | **Total** | | £9.68 | £24.21 | £48.40 |
+{: .data-table}
