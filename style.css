@@ -126,6 +126,43 @@ th {
   text-align: center;
 }
 
+.card-table {
+  border-collapse: collapse;
+}
+
+.card-table th {
+  text-align: left;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+  padding: 0.5rem 1rem;
+  border-bottom: 2px solid #eee;
+}
+
+.card-table td {
+  text-align: left;
+  vertical-align: middle;
+  padding: 1.5rem 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.card-table tr:last-child td {
+  border-bottom: none;
+}
+
+.card-table td:first-child {
+  width: 100px;
+}
+
+.card-table img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
 .site-footer {
   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url( ' https://byngroadallotments.wordpress.com/wp-content/uploads/2024/04/66904c_06c6b72223b742998d478cccfa5bbdd9mv2_d_1936_2592_s_2.webp ' );
   background-size: cover;
@@ -211,14 +248,55 @@ th {
     margin-top: -60px;
   }
 
-  table:not(.data-table) {
+  table:not(.data-table):not(.card-table) {
     table-layout: fixed;
     width: 100%;
   }
 
-  table:not(.data-table) td, table:not(.data-table) th {
+  table:not(.data-table):not(.card-table) td, table:not(.data-table):not(.card-table) th {
     overflow-wrap: break-word;
     word-break: break-word;
+  }
+
+  .card-table, .card-table tbody, .card-table tr, .card-table td {
+    display: block;
+    width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  .card-table thead {
+    display: none;
+  }
+
+  .card-table tr {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+  }
+
+  .card-table tr:last-child {
+    border-bottom: none;
+  }
+
+  .card-table td {
+    text-align: center;
+    border-bottom: none;
+    padding: 0.4rem 0;
+  }
+
+  .card-table td:first-child {
+    width: 100%;
+  }
+
+  .card-table td:nth-child(2) {
+    font-weight: bold;
+    font-size: 1.8rem;
+  }
+
+  .card-table img {
+    width: auto;
+    height: 160px;
   }
 
   .data-table {
